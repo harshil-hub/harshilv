@@ -1,6 +1,5 @@
-# harshilv
-CSE Student | Aspiring Software Developer | Passionate about Coding, Technology, and Building Projects 🚀
 # Hi 👋, I'm Harshil
+CSE Student | Aspiring Software Developer | Passionate about Coding, Technology, and Building Projects 🚀
 
 🎓 **Computer Science Engineering (CSE) Student**  
 💻 Aspiring Software Developer | Tech Enthusiast
