@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshil ✦
+# Hyy, I'm Harshil ✦
 CSE Student | Aspiring Software Developer | Passionate about Coding, Technology, and Building Projects 🚀
 
 🎓 **Computer Science Engineering (CSE) Student**  
